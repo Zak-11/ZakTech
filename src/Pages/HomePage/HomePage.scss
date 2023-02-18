@@ -1,0 +1,107 @@
+
+
+
+
+.baner{
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding-right: 8%;
+    padding-left: 8%;
+    background-color: #F5F5F5;
+    padding-top: 100px;
+    padding-bottom: 6%;
+    flex-wrap: wrap;
+   justify-content: space-between;
+
+
+
+
+
+   .banerText{
+    width: 387px;
+    display: flex;
+    flex-direction: column;
+    span{
+        color: #365EA5;
+    }
+    h1{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 52px;
+        line-height: 125%;
+        color: #263959;
+
+
+    }
+
+    h2{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 143%;
+        text-transform: uppercase;
+        color: #1B3143;
+        padding-top: 31px;
+        padding-bottom: 10px;
+    }
+    p{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 149%;
+        color: #000000;
+
+    }
+
+.bootonBaner{
+    
+    border: 2px solid #365EA5;
+    border-radius: 30px;
+    height: 63px;
+    width: 185px;
+    margin-top: 30px;
+  
+    box-shadow: inset 0 0 0 0 #365EA5;
+    -webkit-transition: ease-out 0.6s;
+    -moz-transition: ease-out 0.3s;
+    transition: ease-out 0.6s;
+   
+    
+    }
+   .bootonBaner:hover{
+         box-shadow: inset 400px 0 0 0 #365EA5;
+    }
+
+   }
+
+
+
+
+.bannerImage{
+    display: flex;
+    align-items: center;
+    padding-left: 14%;
+
+}
+ 
+
+} 
+ .aboutOur{
+       display:flex ;
+       width: 100%;
+       height: 100vh;
+       background-image: linear-gradient(135deg, #005171, #aed5cb 59%, #16a4bb);
+
+       padding: 120px;
+       h1,p{
+       color: aqua;
+       }
+
+       
+   }
+
+ 

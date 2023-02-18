@@ -1,0 +1,49 @@
+.footerVraper{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #fff;
+    background-color: #1b3244;
+    color: #fff;
+    text-align: center;
+   
+}
+.footerBootem{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #1b3244;
+    color: #fff;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 14px;
+   
+    h2,p{
+        text-align: start;
+    }
+
+.location{
+    width: 130px;
+    height: auto;
+}
+.services{
+    width: 130px;
+    height: auto;
+}
+.compan{
+    width:130px;
+    height: auto;
+}
+}
+
+.footerPolis{
+    color:#fff;
+}
+

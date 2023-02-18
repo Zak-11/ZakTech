@@ -1,0 +1,76 @@
+.navbar{
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-bottom: 42px;
+    display: flex;
+    width: 100%;
+    height: auto;
+    background: #F5F5F5;
+    padding-top: 42px;
+    
+}
+.containerNav{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+
+}
+
+
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 444px;
+    height: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 143%;
+    padding-right: 70px;
+a{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 143%;
+    color: #000000;
+
+}
+:hover{
+    color: #365EA5;
+}
+
+}
+
+.navLogo{
+    a{
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 143%;
+        text-transform: uppercase;
+        color: #365EA5;
+
+    }
+  
+}
+
+.navLok{
+    a{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 143%;
+        color: #365EA5;
+      
+    }
+   svg{
+    margin-right: 7px;
+    font-size: 15px;
+   }
+   
+}
